@@ -1,5 +1,5 @@
 function COP (tIn, tOut, type)
-
+%comment
 output = 0;
 tDiff = tIn - tOut;
 
